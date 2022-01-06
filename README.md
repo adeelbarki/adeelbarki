@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there, I'm Adeel - [Full Stack Web Developer] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/adeelbarki?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/adeelbarki)
