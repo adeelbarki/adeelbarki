@@ -32,7 +32,7 @@
 <br />
 <br />
 
-[email]: adeelbarki@gmail.com
+[email]: mailto:adeelbarki@gmail.com
 [twitter]: https://twitter.com/adeelbarki
 [linkedin]: https://linkedin.com/in/adeelbarki
 [Mentic]: http://www.mentic.co
