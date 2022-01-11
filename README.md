@@ -6,7 +6,7 @@
 - 💻 I am currently working as full Stack Web Devloper @ [Mentic Wellness Technolgies][Mentic]
 - 🔥 Running Technology Consulting Firm - [Furistic][furistic]
 - 🌱 I am always learning new technolgies and frameworks
-- ⚽ 2021 Goals: Work on my own startup
+- ⚽ 2022 Goals: Work on my own startup
 - 🔓 I am always open for new opportunities!
 - 🧑‍🍳 Fun Fact: I love to cook
 
