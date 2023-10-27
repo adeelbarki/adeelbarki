@@ -3,8 +3,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/adeelbarki?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/adeelbarki)
 
 ## I am Frontend, Full Stack & a React Developer and also a DevOps Engineer!
+- ☕ Working as Software Developer @ JRAS Medical Inc.
+- 📚 learning Machine Learning and AI in Health Sciences
 - 🌱 I am always learning new technolgies and frameworks
-- ⚽ 2022 Goals: Work on my own startup
+- ⚽ 2024 Goals: Work on my own startup
 - 🔓 I am always open for new opportunities!
 - 🧑‍🍳 Fun Fact: I love to cook
 
