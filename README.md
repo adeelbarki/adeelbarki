@@ -6,6 +6,7 @@
 - ☕ Working as Software Developer @ JRAS Medical Inc.
 - 📚 learning Machine Learning and AI in Health Sciences
 - 🌱 I am always learning new technolgies and frameworks
+- 🧩 Strong Problem Solving Skills 
 - ⚽ 2024 Goals: Work on my own startup
 - 🔓 I am always open for new opportunities!
 - 🧑‍🍳 Fun Fact: I love to cook
