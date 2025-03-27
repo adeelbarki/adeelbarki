@@ -1,6 +1,7 @@
 ### Hi there, I'm Adeel - [Full Stack Web Developer] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/adeelbarki?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/adeelbarki)
+[!Medium Follow](https://medium.com/@adeelbarki/downloading-large-files-with-integrity-checks-in-javascript-a9acb1b45298)
 
 ## I am Frontend, Backend and also a DevOps Developer!
 - ☕ Working as Software Developer @ JRAS Medical Inc.
