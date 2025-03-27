@@ -15,7 +15,6 @@
 [<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 [<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="medium" width="22px" src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/SVG/Medium-Symbol-Black-RGB.svg" />][Medium]
 
 <br />
 
