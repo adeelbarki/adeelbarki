@@ -3,11 +3,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/adeelbarki?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/adeelbarki)
 
 ## I am Frontend, Backend and also a DevOps Developer!
-- ☕ Working as Software Developer @ JRAS Medical Inc.
-- 📚 Worked on projects in Machine Learning and AI in Health Sciences
+- ☕ Working as Senior Software Developer @ AdvaHealth Solutions.
+- 📚 Worked on projects in Machine Learning and AI in Medical Imaging
 - 🌱 I am always learning new technolgies and frameworks
 - 🧩 Strong Problem Solving Skills 
-- ⚽ 2025 Goals: Level up my skills in AI/ML and add more AI projects in my portfolio
+- ⚽ 2026 Goals: Create AI pipelines for medical imaging for workflows, segmentation and quantification
 - 🔓 I am always open for new opportunities!
 - 🧑‍🍳 Fun Fact: I love to cook
 
