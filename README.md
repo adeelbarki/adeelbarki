@@ -1,4 +1,4 @@
-### Hi there, I'm Adeel - [Full Stack Web Developer] 👋
+### Hi there, I'm Adeel - [Senior Software Developer] Experience in Medical Imaging Software - Cloud Native - Zero footprint viewer + AI pipelines
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/adeelbarki?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/adeelbarki)
 
